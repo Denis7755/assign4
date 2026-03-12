@@ -1,6 +1,6 @@
 # README.md 
 **By: Denis Moroz**
-**-----------------------------**
+
 ## Test Case 1 
 
 **Input:** 
@@ -11,7 +11,7 @@
 
 **Rationale:**
 *With 4*5 cents, it gives 20 cents, which would meet the vending condition*
-**----------------------------------------------------------------------------**
+
 ## Test Case 2 
 
 **Input:** 
@@ -22,7 +22,7 @@
 
 **Rationale:**
 *10 cent + 10 cent = 20 cents, which would meet the vending condition*
-**----------------------------------------------------------------------------**
+
 ## Test Case 3 
 
 **Input:** 
@@ -34,7 +34,7 @@
 
 **Rationale:**
 *10 cents + 5 cents + 10 cents = 25 cents, which triggers vend and 5-cent change (which triggers the change led)*
-**-----------------------------------------------------------------------------------------------------------------**
+
 ## Reflection
 
 **Challenging part of the Assignment**
